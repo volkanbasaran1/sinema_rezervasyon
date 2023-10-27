@@ -61,6 +61,5 @@
         <p>Telefon: 555-555-5555</p>
         <p>E-posta: info@sinemarezervasyon.com</p>
     </div>
-    <script src="script.js"></script>
 </body>
 </html>
